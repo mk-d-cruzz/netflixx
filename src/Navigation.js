@@ -19,7 +19,7 @@ function Navigation() {
                 </li>
                 <li className='navigation-li'>
                     <div style={{marginTop:"5px"}}><BsPersonCircle /></div>
-                    <div><h3>John</h3></div>
+                    <div><h3>Mk</h3></div>
                     
                 </li>
             </ul>
